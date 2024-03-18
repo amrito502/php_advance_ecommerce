@@ -36,7 +36,8 @@
     <!-- Layout styles -->
     <link rel="stylesheet" href="assets/css/demo1/style.min.css">
     <!-- End layout styles -->
-
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/alertify.min.css"/>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/themes/bootstrap.min.css"/>
     <link rel="shortcut icon" href="assets/images/favicon.png" />
 </head>
 

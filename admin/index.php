@@ -1,9 +1,6 @@
 <?php
-
-
-
 include 'includes/header.php';
-include'../middleware/adminMiddleware.php';
+include '../middleware/adminMiddleware.php';
 
 include 'includes/sidebar.php';
 ?>
@@ -12,9 +9,10 @@ include 'includes/sidebar.php';
     include 'includes/navbar.php';
     ?>
     <div class="page-content">
+
     </div>
     <div>
-        <?php
-    include 'includes/footer.php';
-        
+<?php
+include 'includes/footer.php';
+
 ?>
