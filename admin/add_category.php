@@ -45,7 +45,7 @@ include 'includes/sidebar.php';
                                 </div>
                                 <div class="mb-3">
                                     <label for="name" class="form-label">Meta Keyword</label>
-                                    <input type="text" class="form-control" id="name" name="meta_keyword" autocomplete="off" placeholder="Meta Keyword">
+                                    <input type="text" class="form-control" id="name" name="meta_keywords" autocomplete="off" placeholder="Meta Keyword">
                                 </div>
 
                                 <div class="box_check f-flex justify-content-between">

@@ -46,6 +46,12 @@
                     <span class="link-title">Add Category</span>
                 </a>
             </li>
+            <li class="nav-item">
+                <a href="category.php" class="nav-link">
+                    <i class="link-icon" data-feather="message-square"></i>
+                    <span class="link-title">All Category</span>
+                </a>
+            </li>
         </ul>
     </div>
 </nav>
