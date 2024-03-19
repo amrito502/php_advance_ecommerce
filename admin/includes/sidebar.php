@@ -40,6 +40,7 @@
                     </ul>
                 </div>
             </li>
+            <hr>
             <li class="nav-item">
                 <a href="add_category.php" class="nav-link">
                     <i class="link-icon" data-feather="message-square"></i>
@@ -52,6 +53,21 @@
                     <span class="link-title">All Category</span>
                 </a>
             </li>
+            <hr>
+            <hr>
+            <li class="nav-item">
+                <a href="add_product.php" class="nav-link">
+                    <i class="link-icon" data-feather="message-square"></i>
+                    <span class="link-title">Add Product</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="products.php" class="nav-link">
+                    <i class="link-icon" data-feather="message-square"></i>
+                    <span class="link-title">All Products</span>
+                </a>
+            </li>
+            <hr>
         </ul>
     </div>
 </nav>
